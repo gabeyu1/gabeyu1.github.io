@@ -105,7 +105,7 @@ body{
     flex-direction: row;
     flex-wrap: wrap;
 
-    margin-bottom: 255px;
+    margin-bottom: 270px;
     flex-wrap: wrap;
     gap: 50px;
 }
@@ -218,4 +218,5 @@ footer img{
     height: 50px
 
 }
+
 
